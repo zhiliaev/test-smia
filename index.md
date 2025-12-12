@@ -16,8 +16,6 @@ If you're new here, start with:
 - [Concepts](./concepts.md)
 - [API reference](./api-reference.md)
 - [Troubleshooting](./troubleshooting.md)
-- [Prompt Search](./PromptLong.md)
-- [Similarity Search](./SimilarityLong.md)
 
 ---
 

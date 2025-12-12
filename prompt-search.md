@@ -1,3 +1,5 @@
+# Prompt Search
+
 Sifting through infinite tracks. Hoping you’re using the right keywords. Not really sure how to translate a creative vision into a few limited tags. What solves all that plus other [music search pitfalls](https://www.aimsapi.com/beyond-keywords-why-today-s-music-search-needs-an-upgrade)? Being able to use your own words (natural language) to find exactly what you need, at any stage of your project, with whatever details you’ve got.
 
 Zero guidelines. Just write what pops into your mind and go.
